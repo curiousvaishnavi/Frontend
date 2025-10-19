@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#na{
+    color: aliceblue;
+    text-align: justify;
+    height: 100px;
+    text-align: center;
+    background: rgb(2, 40, 47);
+    align-content: center;
+}
+#about{
+    text-align: center;
+    background: #f3f1fb;
+}
+.big{
+    text-align: center;
+} 
+#edu{
+    background:rgb(174, 221, 239);
+    height: 30%;
+}
+#skills{
+    background: rgb(236, 237, 156);
+}
+#projects{
+    background: #c383d3;
+}
+#contact{
+    background: #9dfcd0;
+}
+#footer{
+    background: #022236;
+    color: azure; 
+    height:50px;
+    text-align: center; 
+    margin-bottom: 0.5%;
+     align-content: center; 
+}
+#k{
+    width:90%;
+    align-self: center;
+    transform: translateX(40px);
+}
+/* div{
+    align-items: center;
+} */
+button{
+    width: 75%;
+    height:25px;
+    margin-bottom: 0.5%;
+}
+h3{
+    justify-content: center;
+}
+
