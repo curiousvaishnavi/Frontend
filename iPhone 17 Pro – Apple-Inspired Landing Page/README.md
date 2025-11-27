@@ -26,4 +26,4 @@ A hero section showcasing the iPhone 17 Pro with a bold tagline and stunning vis
 Practice modern landing page design
 Improve HTML/CSS layout skills.
 
-Final output:<img width="1892" height="909" alt="final_output" src="https://github.com/user-attachments/assets/28ccd7db-46b8-4b99-ac59-5ee2781d035e" />
+🔥Final output:<img width="1892" height="909" alt="final_output" src="https://github.com/user-attachments/assets/28ccd7db-46b8-4b99-ac59-5ee2781d035e" />
