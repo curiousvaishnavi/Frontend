@@ -1,1 +1,1 @@
-For Practice of making Landing pages using HTML & CSS.
+To improve frontend technology skills
